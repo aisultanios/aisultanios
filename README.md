@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AisultanAskarov
 - 👀 I’m interested in IOS Development
 - 🌱 I’m currently learning SwiftUI
-- 📫 You can always contact me throw instagram @askarovworld
+- 📫 You can always contact me throw E-mail: aisultan.askarov2002@gmail.com
