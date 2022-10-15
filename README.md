@@ -10,4 +10,6 @@
 
 📫 You can always contact me via E-mail: aisultan.askarov2002@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/aisultan-askarov-2436ab1bb
+
 #iOS Developer
