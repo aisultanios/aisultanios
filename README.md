@@ -20,6 +20,6 @@ Check my articles on medium: https://medium.com/@aisultan.askarov
 #iOS Developer
 
 🧠 Skills & Tech:
-Swift | Xcode | Firebase | UIKit | AppStoreConnect | Networking | JSON parsing | Local Notifications | Push Notifications | CoreData | CoreLocation | CoreMotion | Auto Layout | Debugging | Git | Github | MVVM & MVC | Object-oriented programming | Decoding |  Inn-App Purchases | StoreKit | MapKit | Apple Music API | Apple ID Authorization | Email Authorization | Unit Testing | REST API's | CryptoKit | AVKit
+Swift | Xcode | Firebase | SwiftUI | UIKit | AppStoreConnect | Networking | JSON parsing | Local Notifications | Push Notifications | CoreData | CoreLocation | CoreMotion | Auto Layout | Debugging | Git | Github | MVVM & MVC | Object-oriented programming | Decoding |  Inn-App Purchases | StoreKit | MapKit | Apple Music API | Apple ID Authorization | Email Authorization | Unit Testing | REST API's | CryptoKit | AVKit
 
 #iOS Developer
