@@ -14,7 +14,9 @@
 ✉️ My E-mail: aisultanaskarov.ios@gmail.com
 
 Check 'RebFit' on AppStore: https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811
+
 Check my LinkedIn: https://www.linkedin.com/in/aisultan-askarov-2436ab1bb
+
 Check my articles on medium: https://medium.com/@aisultan.askarov
 
 #iOS Developer
