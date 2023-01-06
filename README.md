@@ -8,10 +8,8 @@
 
 💪 I am a team player and also highly motivated when working on hard tasks
 
-📫 You can always contact me via E-mail: aisultan.askarov2002@gmail.com
+📫 You can always contact me via E-mail: aisultanaskarov.ios@gmail.com
 
-
-✉️ My E-mail: aisultanaskarov.ios@gmail.com
 
 Check 'RebFit' on AppStore: https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811
 
