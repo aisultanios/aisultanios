@@ -7,11 +7,15 @@
 💪 I am a team player and also highly motivated when working on hard tasks
 
 My E-mail: aisultanaskarov.ios@gmail.com
+
 My Twitter: https://mobile.twitter.com/aisultanios
+
 My GitHub profile: https://github.com/AisultanAskarov
+
 My Blog: https://medium.com/@aisultan.askarov
 
 Check 'RebFit' on AppStore: https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811
+
 Check 'YBB' on AppStore: https://apps.apple.com/us/app/ybb-budget-expense-planner/id6467672552
 
 #iOS Developer
