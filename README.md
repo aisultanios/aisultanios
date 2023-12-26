@@ -1,4 +1,4 @@
-## 👋 Hi, my name is Aisultan! 
+## Hi, my name is Aisultan 👋
 ### I'm a self-taught iOS Developer based in Turkey. I’m a fast learner, curious, creative, and results-driven. 
 
 * Check out my [portfolio](https://www.aisultanios.dev) to learn more about my projects.
