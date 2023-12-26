@@ -6,6 +6,6 @@
 * See my latest endeavors on my [twitter page](https://twitter.com/aisultanios).
 * Reach out via email at [aisultanaskarov.ios@gmail.com](aisultanaskarov.ios@gmail.com).
 
-## 👨‍💻Building fitness application “RebFit” and budgeting app “YBB”
+## Building fitness application “RebFit” and budgeting app “YBB” 👨‍💻
 * Check out ['RebFit' on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
 * Check out ['YBB' on AppStore](https://apps.apple.com/us/app/ybb-budget-expense-planner/id6467672552)
