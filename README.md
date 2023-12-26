@@ -1,6 +1,5 @@
 ## 👋 Hi, my name is Aisultan! 
 ### I'm a self-taught iOS Developer based in Turkey. I’m a fast learner, curious, creative, and results-driven. 
-### 💪 I am a team player and also highly motivated when working on hard tasks
 
 * Check out my [portfolio](https://www.aisultanios.dev) to learn more about my projects.
 * Explore my [blog](https://medium.com/@aisultan.askarov) where I share insights and learnings.
