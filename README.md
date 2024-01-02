@@ -7,6 +7,6 @@
 * Reach out via email at [aisultanaskarov.ios@gmail.com](aisultanaskarov.ios@gmail.com).
 * DM me on [LinkedIn](https://www.linkedin.com/in/aisultan-askarov-2436ab1bb/) for a quick response
 
-## Building fitness application “RebFit” and budgeting app “YBB” 👨‍💻
+## Building fitness application “RebFit” and budgeting application “YBB” 👨‍💻
 * My personal project ['RebFit' on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
 * My personal project ['YBB' on AppStore](https://apps.apple.com/us/app/ybb-budget-expense-planner/id6467672552)
