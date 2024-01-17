@@ -8,7 +8,7 @@
 
 ## 🛠️ Technologies:
 
-#### Swift | Objective-C | UIKit | SwiftUI | Combine | Git | Unit testing | AVFoundation | StoreKit | Google Cloud Platforms | Networking (RESTful APIs, JSON, XML) | Design patterns (MVC, MVVM, VIPER, etc,) | GCD.
+#### Swift | Objective-C | UIKit | SwiftUI | Combine | Git | Unit testing | AVFoundation | StoreKit | Google Cloud Platforms | Networking (RESTful APIs, JSON, XML) | Design patterns (MVC, MVVM, VIPER) | GCD.
 
 ## 🏗️ Building fitness application “RebFit” and budgeting application “YBB” 👨‍💻
 * My personal project ['RebFit' on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
