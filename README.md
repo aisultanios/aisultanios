@@ -16,4 +16,4 @@
 
 ## 📫 Contact
 
-#### DM me on [LinkedIn](https://www.linkedin.com/in/aisultanaskarov/) for a quick response
+#### DM me on [LinkedIn](https://www.linkedin.com/in/aisultanaskarov/) or [Telegram](https://t.me/aisultanios) for a quick response
