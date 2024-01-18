@@ -2,7 +2,7 @@
 ### I'm a self-taught iOS Developer based in Turkey. I’m a fast learner, curious, creative, and results-driven. 
 
 * Check out my [portfolio](https://www.aisultanios.dev) to learn more about my projects.
-* Explore my [blog](https://medium.com/@aisultan.askarov) where I share insights and learnings.
+* Explore my [blog](https://medium.com/@aisultanios) where I share insights and learnings.
 * See my latest endeavors on my [twitter page](https://twitter.com/aisultanios).
 * Reach out via email at [aisultanaskarov.ios@gmail.com](aisultanaskarov.ios@gmail.com).
 
@@ -16,4 +16,4 @@
 
 ## 📫 Contact
 
-#### DM me on [LinkedIn](https://www.linkedin.com/in/aisultanaskarov/) or [Telegram](https://t.me/aisultanios) for a quick response
+#### DM me on [LinkedIn](https://www.linkedin.com/in/aisultanios/) or [Telegram](https://t.me/aisultanios) for a quick response
