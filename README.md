@@ -1,7 +1,7 @@
 ## Hi, I'm Aisultan 👋
 ### I'm a self-taught iOS Developer based in Turkey. I’m a fast learner, curious, creative, and results-driven. 
 
-* Explore my [blog](https://medium.com/@aisultanios) where I share insights and learnings.
+* Explore my [blog](https://medium.com/@aisultanios) where I post my tutorials and educational articles.
 * See my latest endeavors on my [twitter page](https://twitter.com/aisultanios).
 * Reach out via email at [aisultanaskarov.ios@gmail.com](aisultanaskarov.ios@gmail.com).
 
