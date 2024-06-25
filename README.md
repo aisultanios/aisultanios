@@ -15,4 +15,4 @@
 
 ## 📫 Contact
 
-#### DM me on [LinkedIn](https://www.linkedin.com/in/aisultanios/) or [Telegram](https://t.me/aisultanios) for a quick response
+#### DM me on [LinkedIn](https://www.linkedin.com/in/aisultanios/) for a quick response
