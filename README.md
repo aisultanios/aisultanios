@@ -1,5 +1,5 @@
-## Hi, I'm Aisultan 👋
-### I'm an iOS Developer based in Turkey. I Specialize in developing secure, scalable, maintainable, future-proof, and bug-free solutions for native iOS Apps. 
+## Hey 👋
+#### I'm Aisultan, an iOS Developer based in Turkey. I Specialize in developing secure, scalable, maintainable, future-proof, and bug-free solutions for native iOS Apps. 
 
 * Explore my [blog](https://medium.com/@aisultanios) where I publish tutorials and educational articles related to iOS Development.
 * See my latest endeavors on my [twitter page](https://twitter.com/aisultanios).
