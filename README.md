@@ -1,5 +1,5 @@
 ## Hey 👋
-#### I'm Aisultan, an iOS Engineer based in Kazakhstan. I Specialize in developing secure, scalable, and maintainable solutions for native iOS Apps. 
+#### I'm Aisultan, an iOS Developer based in Kazakhstan. I Specialize in developing secure, scalable, and maintainable solutions for native iOS Apps. 
 
 * Explore my [blog](https://medium.com/@aisultanios) where I publish tutorials and educational articles related to iOS Development.
 * See my latest endeavors on my [twitter page](https://twitter.com/aisultanios).
